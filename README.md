@@ -4,11 +4,11 @@ A real-time collaborative Markdown document editing system based on client-serve
 
 ## Features / 功能特性
 
-- 📝 **Real-time Collaborative Editing** - Multiple clients can edit the same document simultaneously
-- 🔐 **Permission Management** - Role-based access control (read/write permissions)
-- 📋 **Rich Markdown Support** - Headings, lists, code blocks, bold, italic, links, etc.
-- 🔄 **Version Control** - Document version tracking and change notifications
-- 💬 **Real-time Broadcasting** - All clients receive document change notifications in real-time
+- **Real-time Collaborative Editing** - Multiple clients can edit the same document simultaneously
+- **Permission Management** - Role-based access control (read/write permissions)
+- **Rich Markdown Support** - Headings, lists, code blocks, bold, italic, links, etc.
+- **Version Control** - Document version tracking and change notifications
+- **Real-time Broadcasting** - All clients receive document change notifications in real-time
 
 ## System Requirements / 系统要求
 
@@ -316,9 +316,6 @@ Visit our [website](https://github.com)
 - Check if pthread library is installed
 - Run `make clean` and recompile
 
-## License / 许可证
-
-This project is a course assignment.
 
 ## Contributing / 贡献
 
